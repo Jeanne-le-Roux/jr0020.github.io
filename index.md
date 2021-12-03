@@ -6,4 +6,4 @@ When I'm not working, I like hiking, biking, and making art.
 
 "insert quote"
 
-Countries visited: South Africa, Panama, Austria
+States visited: California, Deleware, Alabama
