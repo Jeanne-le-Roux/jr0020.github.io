@@ -7,6 +7,8 @@
 At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 When I'm not working, I like hiking, biking, and making art.
 
-"insert quote"
+## Favorite Quote
+TBD
 
-Countries visited: South Africa, Panama, Austria
+## Countries Visited
+South Africa, Panama, Austria
